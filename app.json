@@ -521830,7 +521830,14 @@
       "value": ""
     },
     "PREFIX": {
-      "description": "Enter your bot prefix eg .,+@#$¶∆×π",
+      "description": "Enter your bot prefix eg .,+.",
+      "required": false,
+      "value": ""
+    }
+
+},
+    "OWNER_NUMBER": {
+      "description": "Put owner number",
       "required": false,
       "value": ""
     }
